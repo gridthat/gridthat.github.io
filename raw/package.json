@@ -1,5 +1,5 @@
 {
-  "name": "static-site-example",
+  "name": "Gridth.at",
   "private": true,
   "dependencies": {
     "handlebars": "^4.0.5",
